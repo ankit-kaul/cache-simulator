@@ -1,0 +1,23 @@
+Cache Settings
+Total Size: 1024
+Block Size: 8
+Associativity: 64
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Writes: 205389
+Misses: 132514
+Compulsory: 8901
+Capacity: 121690
+Conflict: 1923
+Write Misses: 56806
+Read Requests: 132514
+Write Requests: 76388
+Requests: 208902
+Hit Time: 13
+Miss Penalty: 65
+Miss Rate: 0.261142
+AMAT: 29.974210
+Storage Overhead: 7936
+Storage Overhead Ratio: 0.968750

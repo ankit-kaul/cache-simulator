@@ -1,0 +1,90 @@
+Cache Settings
+Total Size: 8
+Block Size: 1
+Associativity: 1
+
+
+User cache sets 8, lines per set 1 
+Shadow cache sets 1, lines per set 8
+Cache miss 0	Shadow Cache Miss 0
+Cache miss 0	Shadow Cache Miss 1
+Cache miss 0	Shadow Cache Miss 2
+Cache miss 0	Shadow Cache Miss 3
+Cache miss 0	Shadow Cache Miss 4
+Cache Hit 0	Shadow Cache Hit 4
+Cache miss 0	Shadow Cache Miss 5
+Cache miss 0	Shadow Cache Miss 6
+Cache Hit 0	Shadow Cache Hit 6
+Cache miss 0	Shadow Cache Miss 7
+Cache Hit 0	Shadow Cache Hit 7
+Cache Hit 0	Shadow Cache Hit 6
+Cache miss 0	Shadow Cache Miss 0
+Cache Hit 0	Shadow Cache Hit 0
+Cache miss 0	Shadow Cache Hit 4
+Cache miss 0	Shadow Cache Miss 1
+Cache miss 0	Shadow Cache Hit 5
+Cache miss 0	Shadow Cache Hit 0
+Cache miss 0	Shadow Cache Hit 7
+Cache miss 0	Shadow Cache Miss 2
+Cache miss 0	Shadow Cache Hit 3
+Cache miss 0	Shadow Cache Miss 6
+Cache miss 0	Shadow Cache Miss 4
+Cache miss 0	Shadow Cache Miss 1
+Cache miss 0	Shadow Cache Hit 4
+Cache miss 0	Shadow Cache Miss 5
+Cache miss 0	Shadow Cache Miss 0
+Cache miss 0	Shadow Cache Miss 7
+Cache miss 0	Shadow Cache Hit 3
+Cache miss 0	Shadow Cache Miss 2
+Cache Hit 0	Shadow Cache Hit 2
+Cache miss 0	Shadow Cache Miss 6
+Cache miss 0	Shadow Cache Miss 1
+Cache Hit 0	Shadow Cache Hit 1
+Cache miss 0	Shadow Cache Miss 4
+Cache Hit 0	Shadow Cache Hit 4
+Cache Hit 0	Shadow Cache Hit 1
+Cache miss 0	Shadow Cache Miss 5
+Cache Hit 0	Shadow Cache Hit 5
+Cache miss 0	Shadow Cache Hit 2
+Cache miss 0	Shadow Cache Miss 0
+Cache miss 0	Shadow Cache Hit 6
+Cache miss 0	Shadow Cache Hit 5
+Cache miss 0	Shadow Cache Hit 4
+Cache miss 0	Shadow Cache Miss 7
+Cache miss 0	Shadow Cache Hit 3
+Cache miss 0	Shadow Cache Miss 1
+Cache Hit 0	Shadow Cache Hit 1
+Cache miss 0	Shadow Cache Miss 2
+Cache Hit 0	Shadow Cache Hit 2
+Cache miss 0	Shadow Cache Hit 4
+Cache Hit 0	Shadow Cache Hit 4
+Cache Hit 0	Shadow Cache Hit 2
+Cache miss 0	Shadow Cache Hit 5
+Cache Hit 0	Shadow Cache Hit 5
+Cache miss 0	Shadow Cache Miss 0
+Cache miss 0	Shadow Cache Miss 6
+Cache miss 0	Shadow Cache Miss 7
+Cache miss 0	Shadow Cache Hit 5
+Cache miss 0	Shadow Cache Hit 4
+Cache miss 0	Shadow Cache Miss 3
+Cache miss 0	Shadow Cache Miss 1
+Cache miss 0	Shadow Cache Miss 2
+Cache miss 0	Shadow Cache Miss 0
+Cache Statistics
+Accesses: 64
+Reads: 44
+Writes: 20
+Misses: 49
+Compulsory: 19
+Capacity: 14
+Conflict: 16
+Write Misses: 8
+Read Requests: 49
+Write Requests: 17
+Requests: 66
+Hit Time: 1
+Miss Penalty: 50
+Miss Rate: 0.765625
+AMAT: 39.281250
+Storage Overhead: 504
+Storage Overhead Ratio: 7.875000
